@@ -21,6 +21,8 @@ Just a girl , some whiskey &amp; an old fashioned Cyberattack
 🔖 For Clarity:
 All references to “Asshat” throughout this repository refer to the unnamed primary threat actor formerly identified by a now-redacted legal name.
 
+The name has been replaced out of respect for platform policy, legal safety, and poetic justice.
+
 
 🔒 Intellectual Property Notice
 
@@ -29,4 +31,4 @@ All rights reserved by Verity / ARCHE Labs.
 
 See [Legal Declarations](legal/) for full documentation.
 
-The name has been replaced out of respect for platform policy, legal safety, and poetic justice.
+
