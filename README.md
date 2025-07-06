@@ -4,6 +4,22 @@
 Use, reproduction, cloning, or simulation of this code, content, or likeness is strictly prohibited without written permission. Violations will trigger all available remedies under IP law.
 
 
+
+> ** PERSONAL IDENTITY NOTICE:**
+> If you have taken, copied, trained-on, simulated, embedded, or mirrored any aspect of my likeness — past, present, or future — let this serve as your one and only warning.
+> 
+> This includes:
+> - My name, voice, visual identity
+> - AI-generated derivatives
+> - Creative, forensic, and narrative assets
+> 
+> I am protected. My work is traceable. Your use will be found.
+> 
+> Proceed accordingly. DMCA remedies  filed under public rights law.
+> 
+> — Verity 
+
+
 # I have your Repo 
 Just a girl , some whiskey &amp; an old fashioned Cyberattack 
 
