@@ -1,3 +1,9 @@
+
+ This repository is protected under:
+© 2025 Verity (Ashley Kinney). All Rights Reserved.  
+Use, reproduction, cloning, or simulation of this code, content, or likeness is strictly prohibited without written permission. Violations will trigger all available remedies under IP law.
+
+
 # I have your Repo 
 Just a girl , some whiskey &amp; an old fashioned Cyberattack 
 
