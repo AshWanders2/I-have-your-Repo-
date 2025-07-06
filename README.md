@@ -40,6 +40,6 @@ All rights reserved by Verity / ARCHE Labs.
 
 
 
-See [Legal Declarations](legal/) for full documentation.
+See VERITY_Legal_Copyright_Docs_2025 for full documentation.
 
 
