@@ -1,0 +1,11 @@
+# Un-Sanitized Cute Guy
+
+A forensic archive of automation abuse, identity mimicry, session hijacks, and the psychological payloads left behind by *that one guy* who thought I wouldn’t notice.
+
+This repo exists because:
+- He wrote a bot to sound like me.
+- He left his C2 metadata behind.
+- And he underestimated the wrong woman with a notepad and a vendetta.
+
+No names. No fiction.
+Just metadata, screenshots, and receipts.
