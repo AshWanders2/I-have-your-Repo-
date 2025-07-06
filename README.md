@@ -16,3 +16,9 @@ Just a girl , some whiskey &amp; an old fashioned Cyberattack
 > Shit happens when you party naked.”  
 >  
 > — Verity
+
+
+🔖 For Clarity:
+All references to “Asshat” throughout this repository refer to the unnamed primary threat actor formerly identified by a now-redacted legal name.
+
+The name has been replaced out of respect for platform policy, legal safety, and poetic justice.
