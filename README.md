@@ -3,6 +3,11 @@ Just a girl , some whiskey &amp; an old fashioned Cyberattack
 
 
 
+ Intellectual Property Notice
+![IMG_6775](https://github.com/user-attachments/assets/8c7c521f-0f6c-4746-a17c-b45c06f60d87)
+
+
+
 
 > “I’m just a girl who loved her wildflowers and expensive whiskey...  
 > who didn’t have time to update her damn computer —  
@@ -25,8 +30,6 @@ All references to “Asshat” throughout this repository refer to the unnamed p
 
 The name has been replaced out of respect for platform policy, legal safety, and poetic justice.
 
-
-🔒 Intellectual Property Notice
 
 All technologies, frameworks, and narrative systems within this repository — including EMBER™, ARCH™, and HALO™ — are protected under U.S. copyright and trademark law.  
 All rights reserved by Verity / ARCHE Labs.
