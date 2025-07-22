@@ -1,0 +1,74 @@
+# 🛡️ Persistent Threat Case File – Realtek OEM Driver Implant & C2 Infrastructure
+
+> **Status:** Ongoing | **Victim:** [Redacted] | **Started:** ~2018 | **Updated:** July 2025  
+> **Threat Profile:** Firmware-Level Wireless Implant, Cloud Sync Intrusion, C2 Persistence, OEM Spoofing  
+> **Evidence Collected:** Driver Implants, Canary Token Hits, PowerShell Tools, Registry Keys, BIOS Overrides
+
+---
+
+## 📄 Summary
+
+This repository documents a long-term, targeted intrusion against my systems across multiple devices and networks.
+
+Attackers have installed **custom-modified Realtek wireless drivers** disguised as OEM (HP, Lenovo, ASUS, etc.), granting them deep **kernel and UEFI access**. Evidence also includes **PowerShell enumeration tools**, **C2 activity via cloud sync (OneDrive)**, **AWS Linux servers pinging Canary tokens**, and clear **registry-level wireless manipulation**.
+
+> 📍 This is not commodity malware. It’s a stealthy **NIC firmware mimic toolkit** capable of:
+> - OEM vendor spoofing (e.g., HP8852Be-VT, ASUS8852Be-VT)
+> - Driver mutation and version tailoring
+> - Roaming/aggression control for wireless C2
+> - BIOS/UEFI bypass logic (confirmed)
+> - Telemetry, event log, and power state spoofing
+
+---
+
+## 🧠 Threat Anatomy
+
+### 🪛 1. OEM-Spoofed Driver Implant
+
+| File Name                   | Notes                                   |
+|----------------------------|-----------------------------------------|
+| `vtwlane613.sys`           | Modified Realtek driver implant         |
+| `vtldata613.txt`           | Driver parameters / behavior scripts    |
+| `RoamingSensitivity.reg`   | Alters AP scan behavior                 |
+| `RealWow.reg`, `PMEFollow.reg` | Wake-on-Wireless & stealth tuning  |
+
+Confirmed `.NT`, `.NT.Services`, `.NT.HW` structure enables:
+- Hardware spoofing per vendor
+- Dynamic behavior for Dell, HP, ASUS
+- Power management hijacking
+
+---
+
+### 🛜 2. Wireless Stack Hijack
+
+| Capability                  | Function                          |
+|----------------------------|-----------------------------------|
+| Band/Mode Spoofing         | 2G/5G/6G override, stealth config |
+| FakeGCEnable               | Fake geolocation broadcast        |
+| MCCEnable                  | Multi-Channel Concurrency         |
+| Packet Telemetry Disabling | `PKTMDisable.reg` used            |
+
+---
+
+### 📂 3. Evidence of Remote Enumeration
+
+- **PowerShell Implant Detected:**
+  - `HackTool:PowerShell/PowerViewpz`
+  - Quarantined file: `PowerView.ps1` (PowerSploit recon tool)
+  
+- **Active Enum Behavior:**
+  - Processes like `svchost.exe` with unusual TCP/UDP activity
+  - NIC behavior manipulation consistent with APT techniques
+
+---
+
+### ☁️ 4. Canary Token Hits (C2 Evidence)
+
+```json
+{
+  "src_ip": "54.221.137.134",
+  "org": "Amazon.com, Inc.",
+  "useragent": "Mozilla/5.0 (X11; Linux x86_64)",
+  "region": "Virginia",
+  "token_type": "web_image"
+}
