@@ -2,7 +2,7 @@
 
 If you have discovered unauthorized use, exploitation, or simulation of the intellectual property, likeness, or authored material within this repository:
 
-📧 Please contact: a_verity1@aol.com
+📧 Please contact: averitylive@outlook.com
 📜 Reference: Copyright Declaration, Identity Rights Notice, and DMCA Compliance.
 
 This repository is monitored for cloned artifacts, simulated forks, or derivative violations using fingerprinted telemetry.
