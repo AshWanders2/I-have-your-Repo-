@@ -1,6 +1,6 @@
 
  This repository is protected under:
-© 2025 Verity (Ashley Kinney). All Rights Reserved.  
+© 2025 Verity . All Rights Reserved.  
 Use, reproduction, cloning, or simulation of this code, content, or likeness is strictly prohibited without written permission. Violations will trigger all available remedies under IP law.
 
 
