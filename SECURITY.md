@@ -12,3 +12,7 @@ This repository is monitored for cloned artifacts, simulated forks, or derivativ
 
 All connections, IP addresses, device identifiers, and
 session activity may be logged and retained.
+
+AEIS Security Framework|
+ἀρχή Research Labs
+© 2025 All Rights Reserved
