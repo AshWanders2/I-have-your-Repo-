@@ -6,7 +6,7 @@ This repository is protected under
 AEIS Security Framework ©2025 
 All Rights Reserved.  
 
-The use, reproduction, cloning, or simulation of this code, content, or likeness is strictly prohibited without written permission. Violations will trigger all available remedies under IP law.
+
 
 
 Adversarial Behavior Research: The Operator Archetype Framework
