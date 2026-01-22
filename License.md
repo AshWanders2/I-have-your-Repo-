@@ -1,8 +1,8 @@
 
 
-AEIS Security Framework License|
-Aegis Endpoint Intelligence System|
-ἀρχή Research Labs| ©2025 All Rights Reserved 
+AEIS Security Framework License |
+Aegis Endpoint Intelligence System |
+ἀρχή Research Labs | ©2025 All Rights Reserved 
 
 
 
