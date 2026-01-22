@@ -1,4 +1,6 @@
-This repository is protected under:
+
+This repository is protected under
+
 AEIS Security Framework ©2025 
 
 All Rights Reserved.  
