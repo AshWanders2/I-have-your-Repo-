@@ -39,7 +39,7 @@ The name has been replaced out of respect for platform policy, legal safety, and
 All technologies, frameworks, and narrative systems within this repository — including EMBER™, ARCH™, and HALO™ — are protected under U.S. copyright and trademark law.  
 
   AEIS Security Framework
-  ἀρχή Research Labs
+  |ἀρχή Research Labs
   ©2025 All Rights Reserved
 
 
