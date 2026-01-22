@@ -1,5 +1,7 @@
 
 
+
+
 This repository is protected under
 AEIS Security Framework ©2025 
 All Rights Reserved.  
@@ -48,8 +50,8 @@ Visibility is a Defensive Act
 
 Research conducted in accordance with responsible disclosure norms. All material is derived from publicly observable data, first-party artifacts, and lawfully obtained telemetry.
 
-AEIS Security Framework
-ἀρχή Research Labs ©2025 All Rights Reserved
+AEIS Security Framework | 
+ἀρχή Research Labs | ©2025 All Rights Reserved
 
 
 
