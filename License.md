@@ -1,8 +1,8 @@
-AEIS Security Framework License
 
-Aegis Endpoint Intelligence System
 
-© 2025 ἀρχή Research Labs. All Rights Reserved.
+AEIS Security Framework License|
+Aegis Endpoint Intelligence System|
+ἀρχή Research Labs| ©2025 All Rights Reserved 
 
 
 
@@ -39,7 +39,8 @@ Specific defensive methodologies and engagement strategies
 Infrastructure topology and protective layer architecture
 Detection, monitoring, and response mechanisms
 Analytical frameworks and intelligence gathering processes
-Disclosure of these methodologies is at the sole discretion of ARCHE Labs and serves the mission outlined in Section 1.
+Disclosure of these methodologies is at the sole discretion of AEIS. 
+
 
 This discretion exists to prevent adversarial replication or misuse, not to obscure governance or ethical accountability
 
@@ -91,11 +92,9 @@ Any attempt to do so voids this license
 
 
 
-
 Section 10 : Enforcement Clarification
 
 Unauthorized use, modification, or deployment of AEIS outside the scope of this license constitutes copyright infringement in addition to ethical breach. All rights are revoked immediately upon violation.
-
 
 
 
